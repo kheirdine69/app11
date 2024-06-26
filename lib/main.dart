@@ -47,7 +47,7 @@ Expanded(child: Row(
   mainAxisAlignment: MainAxisAlignment.center,
   children: [          OutlinedButton(
             onPressed: _decrement,
-            child: Icon(Icons.remove),
+            child: Icon(Icons.add_alarm),
             style: OutlinedButton.styleFrom(
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(35),
